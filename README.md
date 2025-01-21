@@ -34,7 +34,7 @@ Mobile-Friendly Design
 
 Responsive layout for an optimal experience on all devices.
 
-Click for Live Demo of My PortFolio
+Click for Live Demo of My Website
 at:https://yadnesh-thorat.github.io/Caffiene-Coffee/
 Screenshots 
 image![Screenshot 2025-01-21 155556](https://github.com/user-attachments/assets/e6071c00-b572-45b9-98c0-78ce79471866)
