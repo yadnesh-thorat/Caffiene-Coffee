@@ -36,8 +36,12 @@ Responsive layout for an optimal experience on all devices.
 
 Click for Live Demo of My Website
 at:https://yadnesh-thorat.github.io/Caffiene-Coffee/
+
 Screenshots 
-image![Screenshot 2025-01-21 155556](https://github.com/user-attachments/assets/e6071c00-b572-45b9-98c0-78ce79471866)
+
+Home Page:
+
+![Screenshot 2025-01-21 155556](https://github.com/user-attachments/assets/e6071c00-b572-45b9-98c0-78ce79471866)
 Product Section:
 ![image](https://github.com/user-attachments/assets/19929c19-5c82-4694-ad17-e5915b3ff3ce)
 
@@ -51,6 +55,9 @@ Contact
 Feel free to get in touch if you have any questions or would like to collaborate on a project.
 
 Email: yadneshwarthorat@gmail.com
+
 LinkedIn: (www.linkedin.com/in/yadneshwar-thorat-5581a3259)
+
 GitHub: (https://github.com/yadnesh-thorat)
+
 Thank you for visiting Website!
